@@ -26,7 +26,7 @@ Simply click on the start, stop, and reset buttons to perform the desired operat
 
 ## Contributions
 
-Welcome for the contributions! If you have any suggestions or improvements, please open an issue or submit a pull request.
+Welcome for the contributions! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
