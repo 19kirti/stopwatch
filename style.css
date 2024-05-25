@@ -12,13 +12,13 @@
 
 :root {
   --state: paused;
-  --bg: #bbe2fd;
-  --digit: #e6f2d9;
+  --bg: #7cc0f1;
+  --digit: #fb4f05;
   --face: #0d1306;
   --content: #666;
   --shadow: rgba(0, 0, 0, 0.25);
   --glare: rgba(255, 255, 255, 0.2);
-  --watch-bg: #197fe6;
+  --watch-bg: #fa0505;
   --watch-bg--light: #d1e5fa;
   --watch-bg--dark: #0a335c;
   --stroke: #262626;
