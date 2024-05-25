@@ -1,6 +1,6 @@
-# An online Stopwatch 
+# An Online Stopwatch 
 
-![Screenshot (57)](https://github.com/19kirti/stopwatch/assets/145956071/da7916e2-511b-482c-8d70-1c99e94a20bc)
+![Screenshot (57)](https://github.com/19kirti/stopwatch/assets/145956071/1b288bb5-b282-495d-99ed-ba1ad4ee03f3)
 
 
 ## About 
@@ -9,13 +9,12 @@ This is a web-based Stopwatch built using HTML and CSS. It provides an immersive
 
 ## Features  
 
-- Contains a start button
-- Contains a reset button
+- Contains a Start, Stop, and Reset button
 - Realistic functioning and animation
 - Accurate time tracking
-- Start and Reset on your own pace
+- Start, Stop, and Reset at your own pace
 
-## Installation of the Game 
+## Installation 
 
 1. Clone the repository: `git clone https://github.com/your-username/stopwatch.git`
 2. Open the project folder: `cd stopwatch`
@@ -23,9 +22,9 @@ This is a web-based Stopwatch built using HTML and CSS. It provides an immersive
 
 ## How to use?
 
-Simply click on the start button to start it and on the reset button to reset it.
+Simply click on the start, stop, and reset buttons to perform the desired operation.
 
-## Contributing
+## Contributions
 
 Welcome for the contributions! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
