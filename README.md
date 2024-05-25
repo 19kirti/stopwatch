@@ -1,6 +1,7 @@
 # An online Stopwatch 
 
-![Main Page](/Screenshot (57)/.png)
+![Screenshot (57)](https://github.com/19kirti/stopwatch/assets/145956071/da7916e2-511b-482c-8d70-1c99e94a20bc)
+
 
 ## About 
 
