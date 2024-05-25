@@ -1,6 +1,6 @@
 # An online Stopwatch 
 
-![Main Page](/Screenshot (57)/mainPage.png)
+![Main Page](/Screenshot (57)/.png)
 
 ## About 
 
